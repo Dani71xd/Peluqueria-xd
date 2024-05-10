@@ -1,4 +1,4 @@
-# Peluqueria-xd
+[Documento_RNF-d74a738e-edf9-4ff9-8b36-207b41dbae77.pdf](https://github.com/Dani71xd/Peluqueria-xd/files/15271166/Documento_RNF-d74a738e-edf9-4ff9-8b36-207b41dbae77.pdf)# Peluqueria-xd
 Descripción:
 
 El proyecto tiene como objetivo desarrollar un sistema de reservas online para peluquerías que permita a los clientes reservar citas de forma cómoda y flexible, y a la vez ayude a la peluquería a optimizar la gestión de sus reservas y mejorar la rentabilidad del negocio.
@@ -42,4 +42,8 @@ Análisis de datos: Obtener información valiosa sobre las preferencias de los c
 
 Resumen:
 La falta de un sistema de reservas online adecuado representa un problema con importantes repercusiones en la captación de clientes, la rentabilidad, la satisfacción del cliente y la imagen de la peluquería. La implementación de un sistema con las características mencionadas puede generar mejoras significativas en estos aspectos, permitiendo a las peluquerías competir de forma más efectiva en el mercado actual.
+
+[Documento_RF.pdf](https://github.com/Dani71xd/Peluqueria-xd/files/15271178/Documento_RF.pdf)
+[Documento_RNF.pdf](https://github.com/Dani71xd/Peluqueria-xd/files/15271180/Documento_RNF.pdf)
+
 
