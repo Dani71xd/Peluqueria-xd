@@ -47,3 +47,12 @@ La falta de un sistema de reservas online adecuado representa un problema con im
 [Documento_RNF.pdf](https://github.com/Dani71xd/Peluqueria-xd/files/15271180/Documento_RNF.pdf)
 
 
+1. Instalación de Flask
+Asegúrate de tener Flask instalado en tu entorno de desarrollo. Puedes instalarlo utilizando pip:
+pip install Flask
+2. Ejecución de la Aplicación
+Para ejecutar la aplicación Flask, simplemente ejecuta el archivo app.py
+python app.py
+Esto iniciará el servidor de desarrollo de Flask. Puedes acceder a la aplicación en http://127.0.0.1:5000/registro en tu navegador web.
+
+
